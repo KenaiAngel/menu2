@@ -1,0 +1,126 @@
+    1  git version
+    2  echo hola
+    3  echo vete ala burger
+    4  echo vete por una burger
+    5  color F0
+    6  dir
+    7  cls
+    8  clear
+    9  pwd
+   10  ls
+   11  cd Documents/
+   12  ls
+   13  clear
+   14  cd Users\kenai\OneDrive\Documentos
+   15  cd ..
+   16  cd User
+   17  pwd
+   18  ls
+   19  ls -l
+   20  mkdir menu2
+   21  ls
+   22  cd .
+   23  cd
+   24  cd OneDrive/Documentos/arenero_tw/menu
+   25  cd ..
+   26  clear
+   27  ls
+   28  cd menu2
+   29  cd
+   30  clear
+   31  cd OneDrive/Documentos
+   32  ls
+   33  mkdir bebidas sopas platillos
+   34  ls
+   35  cd bebidas
+   36  mkdir limonada naranjada limonadorosa
+   37  cd ..
+   38  ls
+   39  clear
+   40  cd limonada/limonada
+   41  mkdir limonada/imagenes
+   42  ls
+   43  mkdir bebidas/limonada/imagenes
+   44  ls -R
+   45  mkdir bebidas/limonada/imagenes
+   46  clear
+   47  cd bebida
+   48  cd bebidas
+   49  ls
+   50  cd limonada
+   51  mkdir imagenes
+   52  ls
+   53  mkdir ingredientes
+   54  clear
+   55  ls
+   56  cp imagenes ../naranjada
+   57  ls
+   58  cp imagenes ../naranjada && cp ingredientes/ ../naranjada
+   59*
+   60  cp -r imagenes ../naranjada && cp -r ingredientes/ ../naranjada
+   61  ls
+   62  clear
+   63  cd ..
+   64  ls
+   65  rm -R naranjad
+   66  ls
+   67  cd naranjada
+   68  ls
+   69  cp -r imagenes ../limonadarosa && cp -r ingredientes ../limonadarosa
+   70  clear
+   71  cd..
+   72  cd ..
+   73  cd ..
+   74  cd sopas
+   75  ls
+   76  mkdir azteca/imagenes azteca/ingredientes
+   77  mkdir azteca azteca/imagenes azteca/ingredientes
+   78  clear
+   79  mkdir depollo
+   80  ls
+   81  cp -r azteca/* depollo
+   82  cd
+   83  cd OneDrive/Documentos/arenero_tw/menu2
+   84  cp -r sopas/azteca sopas/defideo
+   85  cd sopas/defideo
+   86  ls
+   87  clear
+   88  ls
+   89  cd ..
+   90  cd ..
+   91  clear
+   92  ls
+   93*
+   94  cp -r bebidas/limonada platillos/molepoblano | platillos/arrozrojo | platillos/chileenogada
+   95  cp -r bebidas/limonada platillos/molepoblano && platillos/arrozrojo && platillos/chileenogada
+   96  cp -r bebidas/limonada platillos/molepoblano && cp -r bebidas/limonada platillos/arrozrojo && cp -r bebidas/limonada platillos/chileenogada
+   97  clear
+   98  ls -R
+   99  cd bebidas
+  100  ls -R
+  101  cd limonadorosa/
+  102  ls
+  103  cd ..
+  104  rm -r limonadorosa
+  105  ls
+  106  cd ..
+  107  clear
+  108  cd
+  109  cd OneDrive/Documentos/arenero_tw/menu2
+  110  ls
+  111  nano.com
+  112  touch sapo
+  113  ls
+  114  nano sapo
+  115  nano sapo
+  116  nano sapo.txt
+  117  clear
+  118  ls
+  119  nano ingredientes4.txt
+  120  ls
+  121  touch ingredientes4.txt
+  122  ls
+  123  echo ingredientes4.txt
+  124  rm -r system32
+  125  clear
+  126  history
